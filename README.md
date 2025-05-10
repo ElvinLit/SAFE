@@ -11,7 +11,7 @@ Our self-supervised learning intrusion detection framework consists of 4 modules
 <img width="1194" alt="SAFE-Framework" src="https://github.com/user-attachments/assets/d2a98202-b2be-45fd-b434-042035341b68" />  
 
 # Citation  
-If you use this methodology in your work, please cite our paper:  
+The code may be used for research purposes with appropriate citation of our publication: 
 ```  
 @misc{li2025safeselfsupervisedanomalydetection,
       title={SAFE: Self-Supervised Anomaly Detection Framework for Intrusion Detection}, 
